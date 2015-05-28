@@ -3,6 +3,6 @@
 echo "foobar";
 echo "works";
 
-echo "<button>textonbutton</button>";
+echo '<button>textonbutton</button>';
 
 ?>
